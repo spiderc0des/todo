@@ -38,7 +38,7 @@ Navigate to the backend directory:
 
    pip install -r requirements.txt
 
-   python manage.py makemigrations
+   python manage.py makemigrations task
 
    python manage.py migrate
 
@@ -52,6 +52,7 @@ Navigate to the frontend directory:
     cd frontend
     cd todo
     
+    npm install @fortawesome/fontawesome-free
     npm install axios
     npm install bulma
 
