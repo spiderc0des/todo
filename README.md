@@ -49,8 +49,9 @@ Navigate to the backend directory:
 
 Navigate to the frontend directory:
 
-    cd ../frontend
-
+    cd frontend
+    cd todo
+    
     npm install axios
     npm install bulma
 
