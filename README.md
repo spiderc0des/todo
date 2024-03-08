@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Requirements for frontend 
 
-- axion
+- axios
 - bulma
 
 ## Backend setup
